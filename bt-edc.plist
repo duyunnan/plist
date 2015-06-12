@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.magnsoft.bmedc.fixios8</string>
+          <string>com.magnsoft.bmedc</string>
           <key>bundle-version</key>
           <string>1.0.1</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>BM-EDC</string>
+          <string>BM EDC</string>
         </dict>
       </dict>
     </array>
