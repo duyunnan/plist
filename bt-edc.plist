@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://203.195.175.202:8080/bt_test.ipa</string>
+            <string>http://203.195.175.202:8080/uat_edc.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -23,7 +23,7 @@
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>BM EDC</string>
+          <string>UAT EDC</string>
         </dict>
       </dict>
     </array>
